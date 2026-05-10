@@ -31,20 +31,6 @@ Model Evaluation · FastAPI · Next.js · Docker · PostgreSQL · MongoDB
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malharrrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malharrrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malharrrr&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📬 Reach Me
 
 <p align="left">
