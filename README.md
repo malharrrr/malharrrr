@@ -31,6 +31,14 @@ Model Evaluation · FastAPI · Next.js · Docker · PostgreSQL · MongoDB
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malharrrr&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&icon_color=00ff41" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malharrrr&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" height="160"/>
+</p>
+
+---
 
 ## 📬 Reach Me
 
