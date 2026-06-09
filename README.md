@@ -6,7 +6,7 @@ I build production AI systems that go beyond prototypes — from MCP tooling and
 
 - 🔬 Published at **ICAIC 2025** (MIT Jaipur) on Causal RL for Algorithmic Trading
 - 🏆 3x Hackathon winner — Best Blockchain Project (CSI-SPIT 2024), 2nd Runner Up (IEEE Bombay Section)
-- 📦 Published **[OmniHub](https://npmjs.com/package/omnihub-cli)** on npm — 700+ downloads
+- 📦 Published **[OmniHub](https://npmjs.com/package/omnihub-cli)** on npm — 1000+ downloads
 - 🌍 Live product with real users at **[wanderly-weld.vercel.app](https://wanderly-weld.vercel.app)**
 - 💻 Terminal portfolio at **[malhar-portfolio-neon.vercel.app](https://malhar-portfolio-neon.vercel.app)**
 
