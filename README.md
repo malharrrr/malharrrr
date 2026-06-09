@@ -16,7 +16,7 @@ I build production AI systems that go beyond prototypes — from MCP tooling and
 
 | Project | What it does | Stack |
 |---|---|---|
-| [OmniHub](https://github.com/malharrrr/OmniHub) | MCP memory server for AI assistants — sub-100ms semantic search, 700+ npm downloads | TypeScript, Bun, Gemini API, MCP |
+| [OmniHub](https://github.com/malharrrr/OmniHub) | MCP memory server for AI assistants — sub-100ms semantic search, 1000+ npm downloads | TypeScript, Bun, Gemini API, MCP |
 | [Wanderly](https://github.com/malharrrr/wanderly) | AI trip planner — 20+ users, 100+ itineraries generated | Next.js, Claude API, MongoDB |
 | [HEALOSBENCH](https://github.com/malharrrr/test-eval) | LLM eval harness — 50 clinical transcripts, <2% schema failure rate | Python, Anthropic SDK, Hono |
 | [TCARP](https://github.com/malharrrr/TCARP) | Causal RL trading system — 2.45 Sharpe ratio, 40% above baselines | Python, TensorFlow, PyTorch |
