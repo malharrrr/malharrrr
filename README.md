@@ -39,3 +39,6 @@ Model Evaluation · FastAPI · Next.js · Docker · PostgreSQL · MongoDB
   <a href="https://malhar-portfolio-neon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Terminal-00ff41?style=flat&logo=vercel&logoColor=white&labelColor=0d0d0d"/></a>
   <a href="https://npmjs.com/package/omnihub-cli"><img src="https://img.shields.io/badge/npm-omnihub--cli-00ff41?style=flat&logo=npm&logoColor=white&labelColor=0d0d0d"/></a>
 </p>
+
+## play chess w/ me
+[![Chess.com Rapid Rating](https://chess-profile-widget.onrender.com/widget?platform=chess-dot-com&username=sexpakodi&theme=github-dark)](https://www.chess.com/member/sexpakodi)
